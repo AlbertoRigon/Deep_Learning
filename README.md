@@ -1,6 +1,6 @@
 # Deep Learning
 
-This repository contains all the six homeworks completed for the Deep Learning 2020/2021 course at Università degli Studi di Padova.
+This repository contains all the six homeworks completed for the Deep Learning 2020/2021 course atended at Università degli Studi di Padova.
 
 ## From Perceptron to DNN
 In this homework, we are going to write our own simple feedforward neural network using **Python** and **NumPy**. We will start by implementing just a simple neuron, or perceptron, and then we define the training algorithm for this simple model. The second part consists in defining a simple neural network to perform digits classification.
